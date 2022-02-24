@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks on Mr. Richard Bolton's piece, concerning the heat of the blood</title>
+            <author>Leigh, Charles, 1662-1701?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50040</idno>
+            <idno type="STC">Wing L977</idno>
+            <idno type="STC">ESTC R17674</idno>
+            <idno type="EEBO-CITATION">12348149</idno>
+            <idno type="OCLC">ocm 12348149</idno>
+            <idno type="VID">59912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50040)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 215:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks on Mr. Richard Bolton's piece, concerning the heat of the blood</title>
+                  <author>Leigh, Charles, 1662-1701?</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by John Shelmerdine ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to C. Leigh. Cf. BM.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boulton, Richard, b. 1676 or 7. --  Treatise concerning the heat of the blood.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59912:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 87 -->
+            <p>REMARKS ON Mr. <hi>Richard. Bolton</hi>'s PIECE, CONCERNING The Heat of the BLOOD.</p>
+            <q>An Mercurium Congelaſti? An quid aliud vanitatis? nunc maxime à propoſito longe es; ſemper rebus aliquid defuerit, dolis nihil. At ſi quoties te iſia fefellerint, recogitas: Si de hác re vicinos interrogas, niſi tu vel ultro te fal<g ref="char:EOLhyphen"/>lis, facile deprehendes quorſum his praeſtigiis credendum ſit.</q>
+            <p>
+               <hi>LONDON,</hi> Printed; and ſold by <hi>John Shelmerdine,</hi> Bookſeller, in <hi>Mancheſter,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="remarks">
+            <pb facs="tcp:59912:2"/>
+            <!-- PDF PAGE 88 -->
+            <pb n="3" facs="tcp:59912:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 88 -->
+            <head>REMARKS, &amp;c.</head>
+            <p>I Have peruſed, Sir, your won<g ref="char:EOLhyphen"/>derful Diſcoveries about the Heat of the Blood, and find you think Fire is not actually hot in it ſelf, but only as it affects the Senſory; and by this way of argu<g ref="char:EOLhyphen"/>ing, I may as well argue there is not one Scholar in the Univerſity of <hi>Oxford,</hi> and for the ſelf-ſame Reaſon you aſſign, to wit, becauſe I ſee 'em not. And truly, Sir, were they all compoſed of ſuch nitro<g ref="char:EOLhyphen"/>ſulphureous elaſtick Particles as your ſelf, the Aſſertion would prove true. But I hope the old Element ſtill retains its connate Quality, and the moſt famous Univerſity a ge<g ref="char:EOLhyphen"/>nuine Off-ſpring. By the won<g ref="char:EOLhyphen"/>derful
+<pb n="4" facs="tcp:59912:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 89 -->Diſcoveries you have been able to make, you have made it a Demonſtration <hi>à priori,</hi> that a Pig <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not an Elephant, nor a Mouſe a Cheeſemonger, tho' ſhe lives by him, nor your ſelf a Profeſſor of the Chair, tho' you have the Ef<g ref="char:EOLhyphen"/>frontery to dictate like one. But, Sir, ſince your Genius leads you to ſuch immature Diſcoveries, be plea<g ref="char:EOLhyphen"/>ſed to ſolve theſe following <hi>Phoe<g ref="char:EOLhyphen"/>nomena.</hi> 'Tis obſerved that <hi>Iriſh</hi> Men are moſt of 'em Fools, and the Reaſon aſſigned, is, That the Preſſure of the <hi>Circumambient At<g ref="char:EOLhyphen"/>moſphere</hi> makes their Brains fly out at their Noſtri1s. Your Friend <hi>Gideon Harvey</hi> took a great deal of pains to ſhew why a Dog loves to lick the <hi>Pudenda</hi> of a Salt Bitch;
+<pb n="5" facs="tcp:59912:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 89 -->and if you can but ſolve this won<g ref="char:EOLhyphen"/>derful <hi>Phaenomenon,</hi> why a Bull up<g ref="char:EOLhyphen"/>on the like Occaſion purſes up his Noſtrils, it will entitle you to more Learning than yet you have ma<g ref="char:EOLhyphen"/>nifeſted you are maſter of, and will oblige the World, and your Bro<g ref="char:EOLhyphen"/>ther <hi>Pantagruel,</hi> who made ſuch wonderful Diſcoveries in <hi>Rabelais</hi>'s Memoirs. I have one thing more to remind you, and that is, That our Cooks diſh up well <hi>Scotch</hi> Col<g ref="char:EOLhyphen"/>lops, and if you can but inform 'em how to lard the animal Spirits, which you aſſert are a ſweet oily Mucilage, 'twill further demon<g ref="char:EOLhyphen"/>ſtrate you have beyond Mankind a <hi>Craſſa Minerva;</hi> or if you pleaſe, a fat Head, or an oily-nitro-ſa<g ref="char:EOLhyphen"/>lino-aereal-ſulphureous Cockloft.
+<pb n="6" facs="tcp:59912:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 90 -->But were they as you aſſert, how comes it to paſs that a Nerve will not ſwell above the ſtraiteſt Liga<g ref="char:EOLhyphen"/>ture, or any of this Mucilage di<g ref="char:EOLhyphen"/>ſtil from it upon ſection, or cannot by preſſure be ſqueezed from it, it being of a clammy Conſiſtence? If ſuch a Mucilage did circulate through the Nerves, no doubt but ſome of theſe would happen. Your wonderful categorial Head, with<g ref="char:EOLhyphen"/>out the leaſt ſhew of Proof, has endeavour'd to convince the World, that the Brain, that Metropolis in the Microcoſm, by the influence of the animal Spirits, heats the Blood by the Glandules, thoſe emuncto<g ref="char:EOLhyphen"/>ries of the Body; and I may with as much reaſon affirm, that <hi>White<g ref="char:EOLhyphen"/>hall,</hi> the nobleſt part in that vaſt
+<pb n="7" facs="tcp:59912:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 90 -->City, to wit, <hi>London,</hi> was lately burned by the Effluvia of a Bog<g ref="char:EOLhyphen"/>houſe. Sir, there is not one No<g ref="char:EOLhyphen"/>tion in your Book, barring the lit<g ref="char:EOLhyphen"/>tle <hi>Nova Atlanta</hi> of your own Head, but what is taken either from Dr. <hi>Gibſon,</hi> Dr. <hi>Willis,</hi> Mr. <hi>Boyle,</hi> Dr. <hi>Mayow,</hi> Dr. <hi>Connor,</hi> Monſieur <hi>le Grand,</hi> or the <hi>Exercitationes quin<g ref="char:EOLhyphen"/>que,</hi> lately printed at <hi>Oxford,</hi> and therefore I was amazed to ſee ſuch an <hi>Imprimatur</hi> to ſo notorious a Plagiary, but preſume the Criple wanted a Paſs to travel by. One great Myſtery you have diſcover'd, why Flame naturally aſcends, to wit, becauſe, as you alledge, 'tis for the moſt part the nature of it to do ſo; which is as much as to ſay, Mr. <hi>Bolton</hi> for the moſt part
+<pb n="8" facs="tcp:59912:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 91 -->naturally talks like a Child, becauſe it is not in his nature to do other<g ref="char:EOLhyphen"/>wiſe. You have likewiſe explain'd how it may be ſaid naturally to deſcend, to wit, when it cannot get upwards; which amounts to no more than if you had informed. the World, That had the Confe<g ref="char:EOLhyphen"/>derate Army only made uſe of Duck Shot, they had ne'er been maſters of the Caſtle of <hi>Namur.</hi> And in that wonderful Diſcovery you have found out the <hi>Rationale,</hi> how an expert School-Boy, with a good Ball and a hard Flag, can ſometimes count to 300 Rebounds. Your next Advance, I ſuppoſe, will be about Cob-nuts and Mar<g ref="char:EOLhyphen"/>bles. In one place you aſſert, Fire is not actually hot, but as it affects
+<pb n="9" facs="tcp:59912:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 91 -->the Senſory; in another place you ſay, the motion of the vital Spi<g ref="char:EOLhyphen"/>rits cauſe not the Heat of the Blood, but produce a Senſation of Heat. Good Sir, be pleaſed to reconcile theſe Contradictions, and if you can, divide betwixt the North and North-Weſt ſide of a Hair; for, any thing you have yet offer'd, <hi>Diemerbrook</hi> may be ſtill in the right of it. Nor have you fully replied to Dr. <hi>Henſhaw;</hi> for I think you are the firſt Man that ever diſcovered cold Chyle in the Body of a living Animal, which I ſup<g ref="char:EOLhyphen"/>poſe is the greateſt Diſcovery in Anatomy you are able to pretend to. Sir, whether you Name be any of thoſe you mention, to wit, <hi>Thomas, Robert,</hi> or <hi>William,</hi> it
+<pb n="10" facs="tcp:59912:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 92 -->concerns not me, but I am pretty well ſatisfied all the Names in <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> cannot give you the conſtitu<g ref="char:EOLhyphen"/>ent Parts of a Philoſopher. You aſſert, the Heat of the Blood pro<g ref="char:EOLhyphen"/>ceeds from a ſwift inteſtine motion of its Particles. Now I believe you will be as hard ſet to explain inteſtine Motion as a Quaker to explain what he means by the Spi<g ref="char:EOLhyphen"/>rit within him.</p>
+            <p>You likewiſe aſſert Attrition to be the Cauſe of Fermentation, and Fermentation the Cauſe of Attri<g ref="char:EOLhyphen"/>tion, which is as much as to ſay, you are the Son of your Father, and your Father Son to you, but I rather fear an Author about the Growth of a Muſhroom. Your metaphorical Glands are properly
+<pb n="11" facs="tcp:59912:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 92 -->ſo called; for I am very well ſa<g ref="char:EOLhyphen"/>tisfied there are not any ſuch things really in <hi>rerum Natura;</hi> the animal Spirits you aſſert to be in the form of a Mucilage, and you may as well affirm a Roſe to be in the Surface of a Cow-Turd, and the one I believe as truly as the o<g ref="char:EOLhyphen"/>ther. You likewiſe aſſert they are oily and ſulphureous, becauſe the Brain by being expoſed to the Air will ſoon grow foetid. I doubt not, Sir, but you know what elſe will, but hope you will not ranſack each Cloſe-ſtool to demonſtrate the Ex<g ref="char:EOLhyphen"/>iſtence of animal Spirits. You have likewiſe told us of the way of grinding animal Spirits into ſmaller parts; ſo that in your next, I ſuppoſe we may be informed
+<pb n="12" facs="tcp:59912:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 93 -->how <hi>Diego</hi> with his <hi>Spaniſh</hi> Geeſe went to the World of the Moon, or how a <hi>Spaniſh</hi> Genet may be made pregnant by a Hurricane. <hi>P.</hi> 99. you ſay you have explain<g ref="char:EOLhyphen"/>ed an Account of the Heat of the Blood, without any manner of Proof, and in that you ſay true. <hi>P.</hi> 105. Spirit of Wine and Oil of Turpentine will turn to an actual Flame by being mixt together. Here the Plagiary has miſtaken the Mixture; for it ought to be Spirit of Nitre and Oil of Tur<g ref="char:EOLhyphen"/>pentine: ſee the late <hi>Exercitationes quinque,</hi> Printed at <hi>Oxford:</hi> But he that ventures at all things, and is maſter of few, is certain to be catched, and it had been much better for him to have ſate ſtill
+<pb n="13" facs="tcp:59912:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 93 -->than riſe up and fall. But let not this Abſurdity be publiſhed from <hi>Oxford,</hi> or from the Preſidents and Cenſors, thoſe Repreſentatives of the College, ſince 'tis certain a Mixture of theſe two, to wit, Spirit of Wine and Oil of Tur<g ref="char:EOLhyphen"/>pentine, neither grow hot nor turn to an actual Flame, but to a white Liquor not unlike Milk or Chyle, which may remind the Youth, before he write again, to wipe his Mother's Milk off his Chin. But this Miſtake might eaſily ſlip the Vicechancellor, his Talent I pre<g ref="char:EOLhyphen"/>ſume not leading him to Experi<g ref="char:EOLhyphen"/>mental Learning, beſides his great. Affairs not permitting, and I would hope the Preſident and Cenſors never peruſed the Copy: And as
+<pb n="14" facs="tcp:59912:8"/>
+               <!-- PDF PAGE 94 -->for his Patron, Dr. <hi>Angel</hi> of <hi>Che<g ref="char:EOLhyphen"/>ſter,</hi> they beſt know how mat<g ref="char:EOLhyphen"/>ters were betwixt 'em. <hi>P.</hi> 117. your next Diſcovery to ſuppreſs Heat in Fevers, is either to take down the animal Spirits by with<g ref="char:EOLhyphen"/>drawing the <hi>Pabulum,</hi> or by A<g ref="char:EOLhyphen"/>cids, or by cooling and fixing the predominant Spirits, and evacua<g ref="char:EOLhyphen"/>ting other acceſſory Cauſes; which amounts to no more than this, that if a Man have a Fever, we muſt uſe ſome means to recover him, but which to take I am afraid the Youth knows not, but perhaps knows as well how to fix the ani<g ref="char:EOLhyphen"/>mal Spirits as the wiſe Men of <hi>Go<g ref="char:EOLhyphen"/>tham</hi> did to hedge in the Cuckow. <hi>P.</hi> 126. The ſulphureous volatile parts of the animal Spirits are, I
+<pb n="15" facs="tcp:59912:8" rendition="simple:additions"/>
+               <!-- PDF PAGE 94 -->ſuppoſe, Sir, beyond your Apprehenſion: But, good Sir, how do you make out the Compoſition of the Spirits? No more for ought I can ſee than a Country Piper that plays all the Notes of <hi>Roger a Cover<g ref="char:EOLhyphen"/>ley,</hi> all the mechanical Blaſts of the <hi>Aſpera Arteria. P.</hi> 127. I would gladly know what you mean by Acidity joining with Acrimony, and how you will make out, that in Fevers the Blood is too much exal<g ref="char:EOLhyphen"/>ted with Sulphur, when in malignant Fe<g ref="char:EOLhyphen"/>vers 'tis evident the Pulſe is moſt common<g ref="char:EOLhyphen"/>ly depreſſed and languid, which doubt<g ref="char:EOLhyphen"/>leſs would not be were the Blood too much exalted with Sulphur. <hi>P.</hi> 135. Where the Blood ferments, there the Fermentation is cauſed, but demonſtrate the place, and do not aſſert all things and prove nothing. <hi>P.</hi> 139. He gives an Account of the Ex<g ref="char:EOLhyphen"/>panſion of the Spirits, but that was before alledged by Dr. <hi>Morton;</hi> and in anſwer to that I refer him to the <hi>Exercitationes quinque,</hi> Printed at <hi>Oxford,</hi> where he may ſee in what manner they can be moſt properly ſaid to expand 'emſelves. Laſtly, Sir,
+<pb n="16" facs="tcp:59912:9"/>
+               <!-- PDF PAGE 95 -->your repeated Word <hi>Grand</hi> demonſtrates to the World you had a Windmill, not an <hi>Ariſtotle</hi> in your Head. <hi>P.</hi> 192. Air would hinder Circulation, and diſturb the Blood, wherefore it mixeth not with it. What are the Bladders of the Lungs impleted with? And if ſo, how come ſome Airs to be Peſtilential, others Scorbutick? 'Tis plain this would not be if the Particles of Air mixed not with the Blood. Yet this we ſee confirmed by daily Experience. But in what you have informed us concerning the uſe of the Lungs, if we peruſe the Authors that have writ before, it is not ſo much as that of the Satyr, that with the ſame Breath could warm his Fingers and cool his Broth. Wherefore, good Sir, be pleaſed to ſtay till you are Ma<g ref="char:EOLhyphen"/>ſter of <hi>Smiglecius,</hi> and then, if not for an Author, you may ſet up for a <hi>Nego Minorem.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59912:9"/>
+            <!-- PDF PAGE 95 -->
+         </div>
+      </body>
+   </text>
+</TEI>
